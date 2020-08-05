@@ -15,8 +15,8 @@
 # Technologies
 This project was made using the follow technologies:
 <ul>
-  <li><a href="">CSS</a></li>
-  <li><a href="">HTML5</a></li>
+  <li><a href="https://www.w3.org/TR/css3-roadmap/">CSS</a></li>
+  <li><a href="https://www.w3.org/TR/html52/">HTML5</a></li>
 </ul>
 
 # License
